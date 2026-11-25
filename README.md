@@ -21,7 +21,7 @@ Blinks the Uno's built-in LED once per second.
 
 ![Uno running Blink](images/01_blink_board.png)
 
-Demo video: [01_blink/blink-demo.mov](01_blink/blink-demo.mov)
+Demo video: [L02_blink/blink-demo.mov](https://github.com/elltt-dev/ELEGOO_Super-_Starter-_Kit/blob/main/L02_blink/blink-demo.mov)
 
 ### Wiring
 
